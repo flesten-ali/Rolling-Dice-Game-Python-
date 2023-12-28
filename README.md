@@ -1,4 +1,4 @@
-##Rolling Dice Game
+# Rolling Dice Game
 
 
 A dice rolling application, in which the user competes against the computer
